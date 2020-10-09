@@ -1,7 +1,9 @@
 # Updates 
-** Fall 2020: Currently looking for roles in data visualization, information design, and Web development! [Let's connect!](https://www.twitter.com/@riledigital/) **
+**Fall 2020: Currently looking for roles in data visualization, information design, and Web development! [Let's connect!](https://www.twitter.com/@riledigital/)**
 
-- Build robust React+Redux front-end experiences
+### Currently Learning About...
+
+- Building robust React+Redux front-end experiences
 - Sanity.io headless CMS + JAMstack static site deployment and querying data with GraphQL
 - Building Python-based REST APIs
 
