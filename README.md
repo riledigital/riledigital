@@ -21,8 +21,6 @@ Ri (pronounced "ARE-ee") is a recent graduate of Columbia University seeking rol
 
 Ri is an alum of Vassar College in Poughkeepsie, NY, where—in-between writing papers on race and urban history in America, coding data structures for Computer Science, and coordinating media and events for the Asian Students’ Alliance— Ri worked in Computing and Information Services serving the Art History department and the Vassar Quarterly alumni magazine, as well as making films for Vassar Stories, Vassar Admissions, and the Vassar Fund in the Vassar College Office of Communications.
 
-Ri is proud to be a first-generation college student, a child of refugee-immigrants from the Vietnam War, a QuestBridge Scholar, and a member of the QuestBridge Alumni Association. Ri was an Associate Producer for the 2016 documentary film (Un)Privileged: The Cost of Being Poor at An Elite Institution, an independent film that explores experiences of low-income first-generation students at exclusive universities like Stanford, Harvard, and Yale University.
-
 ### Programming tools
 - Python - Pandas, NumPy, Geopandas, Scikit-Learn, XGBoost, HDBSCAN, Altair (Vega-Lite), Matplotlib, SpaCy, statsmodels, Flask, Django, SQLAlchemy ORM
 - R - Tidyverse, ggplot, tidyr, dplyr, sf for geospatial
