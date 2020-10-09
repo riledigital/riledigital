@@ -1,5 +1,5 @@
 # Updates 
-**Fall 2020: Currently looking for roles in data visualization, information design, and Web development! [Let's connect!](https://www.twitter.com/@riledigital/) **
+** Fall 2020: Currently looking for roles in data visualization, information design, and Web development! [Let's connect!](https://www.twitter.com/@riledigital/) **
 
 - Build robust React+Redux front-end experiences
 - Sanity.io headless CMS + JAMstack static site deployment and querying data with GraphQL
@@ -21,15 +21,11 @@ Ri is an alum of Vassar College in Poughkeepsie, NY, where—in-between writing 
 
 Ri is proud to be a first-generation college student, a child of refugee-immigrants from the Vietnam War, a QuestBridge Scholar, and a member of the QuestBridge Alumni Association. Ri was an Associate Producer for the 2016 documentary film (Un)Privileged: The Cost of Being Poor at An Elite Institution, an independent film that explores experiences of low-income first-generation students at exclusive universities like Stanford, Harvard, and Yale University.
 
-LinkedIn
 ### Programming tools
-
-Python - Pandas, NumPy, Geopandas, Scikit-Learn, XGBoost, HDBSCAN, Altair (Vega-Lite), Matplotlib, SpaCy, statsmodels, Flask, Django, SQLAlchemy ORM
-R - Tidyverse, ggplot, tidyr, dplyr, sf for geospatial
-Web - HTML/CSS, Sass, SCSS, Javascript, ES6, Node.js, React, Redux, Webpack, Mocha testing, Gatsby, Strapi, GraphQL, REST
-SQL - PostgreSQL, SQLite
-DevOps basics - Linux, Ubuntu, Docker, Vagrant
-Java
-Arduino (C++ version and Johnny-Five), Vuo
-
-
+- Python - Pandas, NumPy, Geopandas, Scikit-Learn, XGBoost, HDBSCAN, Altair (Vega-Lite), Matplotlib, SpaCy, statsmodels, Flask, Django, SQLAlchemy ORM
+- R - Tidyverse, ggplot, tidyr, dplyr, sf for geospatial
+- Web - HTML/CSS, Sass, SCSS, Javascript, ES6, Node.js, React, Redux, Webpack, Mocha testing, Gatsby, Strapi, GraphQL, REST
+- SQL - PostgreSQL, SQLite
+- DevOps basics - Linux, Ubuntu, Docker, Vagrant
+- Java
+- Arduino (C++ version and Johnny-Five), Vuo
