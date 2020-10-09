@@ -1,5 +1,5 @@
 # Updates 
-**Fall 2020: Currently looking for roles in data visualization, information design, and Web development! [Let's connect!](https://www.twitter.com/@riledigital/)**
+**Fall 2020: Currently looking for roles in data analysis and visualization, information design, and Web development! [Let's connect!](https://www.twitter.com/@riledigital/)**
 
 ### Currently Learning About...
 
