@@ -15,6 +15,7 @@
 - [Data visualization experiments on ObservableHQ](https://observablehq.com/@rl2999)
 - [Web experiments on CodePen](https://codepen.io/rl2999)
 - [More Web experiments on Glitch](https://glitch.com/@riledigital)
+- [Moodboarding at Are.na](https://www.are.na/ri-le)
 - [CV on LinkedIn](https://www.linkedin.com/in/riledigital/)
 
 # About Ri
