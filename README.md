@@ -3,6 +3,8 @@
 
 ### Currently Learning About...
 
+- Creating effective, accessible, and inspiring information design on the Web
+- Vue.js + Vuex ecosystem
 - Building robust React+Redux front-end experiences
 - Sanity.io headless CMS + JAMstack static site deployment and querying data with GraphQL
 - Building Python-based REST APIs
