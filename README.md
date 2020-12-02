@@ -4,10 +4,10 @@
 ### Currently Learning About...
 
 - Creating effective, accessible, and inspiring information design on the Web
-- Vue.js + Vuex ecosystem
+- Vue.js ecosystem
 - [Building robust React+Redux front-end experiences](https://citibike-planner.surge.sh/)
 - Sanity.io headless CMS + JAMstack static site deployment and querying data with GraphQL
-- Building Python-based REST APIs
+- Building REST APIs
 
 # Links
 
