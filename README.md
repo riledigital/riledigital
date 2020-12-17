@@ -1,5 +1,6 @@
 # Updates 
-**Fall 2020: Currently looking for roles in data analysis and visualization, information design, and Web development! [Let's connect!](https://www.twitter.com/@riledigital/)**
+
+Fall 2020: Currently looking for roles in data analysis and visualization, information design, and Web development! [Let's connect!](https://www.twitter.com/@riledigital/)
 
 ### Currently Learning About...
 
@@ -13,16 +14,12 @@
 
 - [Portfolio at riledigital.com](http://riledigital.com)
 - [Data visualization experiments on ObservableHQ](https://observablehq.com/@rl2999)
-- [Web experiments on CodePen](https://codepen.io/rl2999)
-- [More Web experiments on Glitch](https://glitch.com/@riledigital)
 - [Moodboarding at Are.na](https://www.are.na/ri-le)
 - [CV on LinkedIn](https://www.linkedin.com/in/riledigital/)
 
 # About Ri
 
 Ri (pronounced "ARE-ee") is a recent graduate of Columbia University seeking roles in software engineering & development (Web front-end or full-stack) and data science/engineering, with domain expertise in urban/city planning. Ri is skilled in data analytics, Web development, geographic information systems (GIS), and urban planning. Ri is a dedicated multidisciplinary practitioner, with a strong quantitative and technical foundation backed with the care of storytelling and social context research. 
-
-Ri is an alum of Vassar College in Poughkeepsie, NY, where—in-between writing papers on race and urban history in America, coding data structures for Computer Science, and coordinating media and events for the Asian Students’ Alliance— Ri worked in Computing and Information Services serving the Art History department and the Vassar Quarterly alumni magazine, as well as making films for Vassar Stories, Vassar Admissions, and the Vassar Fund in the Vassar College Office of Communications.
 
 ### Programming tools
 - Python - Pandas, NumPy, Geopandas, Scikit-Learn, XGBoost, HDBSCAN, Altair (Vega-Lite), Matplotlib, SpaCy, statsmodels, Flask, Django, SQLAlchemy ORM
