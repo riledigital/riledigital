@@ -1,7 +1,7 @@
 
 # About Ri
 
-Richard “Ri” Le (pronounced ARE-ee lay) is a Web developer, creative technologist, and urbanist who uses engineering, design, and informed research to shape digital and physical environments that inspire education, problem-solving, and meaningful change. Ri is currently an Engineering Apprentice at the design studio Upstatement.
+Richard “Ri” Le (pronounced ARE-ee lay) is a Web developer, creative technologist, and urbanist who uses engineering, design, and informed research to shape digital and physical environments that inspire education, problem-solving, and meaningful change. Ri is currently a Developer at the design studio Bluecadet. Ri was formerly an Engineering Apprentice at the design studio Upstatement.
 
 ## Updates
 
