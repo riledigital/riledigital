@@ -7,19 +7,11 @@ Richard “Ri” Le (pronounced ARE-ee lay) is a Web developer, creative technol
 
 Fall 2020: Currently looking for roles in data analysis and visualization, information design, and Web development! [Let's connect!](https://www.twitter.com/@riledigital/)
 
-### Currently Learning About...
-
-- [Building robust React+Redux front-end apps](https://citibikeplanner.netlify.app/)
-- Creating effective, accessible, and inspiring information design on the Web
-- Vue.js ecosystem
-- Sanity.io headless CMS + JAMstack static site deployment and querying data with GraphQL
-- Building REST APIs
-
 # Links
 
 - [Portfolio at riledigital.com](http://riledigital.com)
 - [CV on LinkedIn](https://www.linkedin.com/in/riledigital/)
-- [Novelty JS/CSS experiments on CodePen](https://codepen.io/your-work/)
+- [Novelty JS/CSS experiments on CodePen](https://codepen.io/riledigital/)
 <details>
   <summary>Programming tools</summary>
   
