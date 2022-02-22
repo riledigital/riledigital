@@ -1,11 +1,7 @@
 
 # About Ri
 
-Richard “Ri” Le (pronounced ARE-ee lay) is a Web developer, creative technologist, and urbanist who uses engineering, design, and informed research to shape digital and physical environments that inspire education, problem-solving, and meaningful change. Ri is currently a Developer at the design studio Bluecadet. Ri was formerly an Engineering Apprentice at the design studio Upstatement.
-
-## Updates
-
-Fall 2020: Currently looking for roles in data analysis and visualization, information design, and Web development! [Let's connect!](https://www.twitter.com/@riledigital/)
+Richard “Ri” Le (pronounced ARE-ee lay) is a Web developer, creative technologist, and urbanist who combines software engineering, design, and informed research to shape digital products that inspire education, problem-solving, and meaningful change. Ri is currently a developer at Bluecadet and was an Engineering Apprentice at the design studio Upstatement.
 
 # Links
 
@@ -17,10 +13,9 @@ Fall 2020: Currently looking for roles in data analysis and visualization, infor
   
 - Python - Pandas, NumPy, Geopandas, Scikit-Learn, XGBoost, HDBSCAN, Altair (Vega-Lite), Matplotlib, SpaCy, statsmodels, Flask, Django, SQLAlchemy ORM
 - R - Tidyverse, ggplot, tidyr, dplyr, sf for geospatial
-- Web - HTML/CSS, Sass, SCSS, Javascript, ES6, Node.js, React, Redux, Webpack, Mocha testing, Gatsby, Strapi, GraphQL, REST
+- Web - HTML/CSS, Sass, SCSS, ES6+ JavaScript, Node.js, React, Redux, webpack, Mocha testing, Gatsby, Strapi, GraphQL, REST
 - SQL - PostgreSQL, SQLite
 - DevOps basics - Linux, Ubuntu, Docker, Vagrant
-- Java
-- Arduino (C++ version and Johnny-Five), Vuo
+- OOP basics - Java
 
 </details>
