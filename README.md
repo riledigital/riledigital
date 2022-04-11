@@ -8,7 +8,7 @@ Richard “Ri” Le (pronounced ARE-ee lay) is a software engineer focused on de
 - [Portfolio at riledigital.com](http://riledigital.com)
 - [CV on LinkedIn](https://www.linkedin.com/in/riledigital/)
 - [Novelty JS/CSS experiments on CodePen](https://codepen.io/riledigital/)
-- 
+
 <details>
   <summary>Programming Languages and Technologies</summary>
   
